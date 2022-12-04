@@ -2,6 +2,6 @@
 
 https://adventofcode.com/
 
-### here are my attempts at the advent of code problems
+### My Attempts at the Advent of Code Problems
 
 - [2022](2022/)
